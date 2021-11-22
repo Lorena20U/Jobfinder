@@ -6,7 +6,7 @@ import './TinderCards.css';
 function TinderCards(){
           const [people, setPeople] = useState ([
                     {
-                              name: "Programador de Front End Google",
+                              name: "Director de tranformación digital",
                               url: 
                                  "https://wallpapercave.com/wp/wp2860517.jpg"
                     },
