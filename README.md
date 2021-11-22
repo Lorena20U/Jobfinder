@@ -1,21 +1,18 @@
-# Sample NodeJS application for Azure Pipelines docs
+# Job Finder
 
-For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
-For more information on building JavaScript or NodeJS applications, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
+El propósito del app es brindar una forma fácil de buscar trabajos en una app de
+manera parecida a Tinder, donde le llama la atención el trabajo, usted hace Swipe right y si
+no hace swipe left para rechazar o aceptar puestos.
 
-# Contributing
+# Colaboradores
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+* **Lorena Perez** - *Developer* - (20200396)
+* **Pablo Velasquez** - *Developer* - (20190519)
+* * **Juan Luis Fernandez** - *Developer* - (20200112)
+* * **Rodrigo Reyes** - *Developer* - (20200090)
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+# Proyect: Azure
+[Proyect](https://dev.azure.com/juanfernandez0743/Job%20Finder%202.0)
 
 # Legal Notices
 
