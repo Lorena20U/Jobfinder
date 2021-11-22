@@ -13,10 +13,10 @@ function Header({backButton}) {
                     <div className = 'header' >
                               {backButton ? (
                                         <IconButton onClick = {() => history.replace(backButton)}>
-                                                  <ArrowBackIcon fontSize = "large" className = "header__arrowback"/>
+                                                  <ArrowBackIcon fontSize = "large" className = "header__ar rowback"/>
                                         </IconButton>
                               ):(
-                                        <IconButton>
+                                        <IconButton href="http://localhost:3000"> 
                                                   <AccountCircleIcon className = "header__icon" sx={{ fontSize: 40}} />
                                         </IconButton>
                               )}
