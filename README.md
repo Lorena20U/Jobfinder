@@ -8,8 +8,8 @@ no hace swipe left para rechazar o aceptar puestos.
 
 * **Lorena Perez** - *Developer* - (20200396)
 * **Pablo Velasquez** - *Developer* - (20190519)
-* * **Juan Luis Fernandez** - *Developer* - (20200112)
-* * **Rodrigo Reyes** - *Developer* - (20200090)
+* **Juan Luis Fernandez** - *Developer* - (20200112)
+* **Rodrigo Reyes** - *Developer* - (20200090)
 
 # Azure
 [Proyect](https://dev.azure.com/juanfernandez0743/Job%20Finder%202.0)
