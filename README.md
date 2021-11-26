@@ -11,7 +11,7 @@ no hace swipe left para rechazar o aceptar puestos.
 * * **Juan Luis Fernandez** - *Developer* - (20200112)
 * * **Rodrigo Reyes** - *Developer* - (20200090)
 
-# Proyect: Azure
+# Azure
 [Proyect](https://dev.azure.com/juanfernandez0743/Job%20Finder%202.0)
 
 # Legal Notices
